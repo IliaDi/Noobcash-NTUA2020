@@ -1,4 +1,6 @@
-Distributed Systems Project 2020 :)
+Distributed Systems Project 2020
+
+Implementation of dummy blockchain currency - aka noobcash
 
 **How to start the Flask app:**
 * Log in to your VM
